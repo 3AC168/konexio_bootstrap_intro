@@ -1,0 +1,17 @@
+.row1 div div{
+    background-color: yellow;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row2 div div{
+    background-color: blue;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row3 div div{
+    background-color: red;
+    height: 35px;
+    margin-bottom: 10px;
+}

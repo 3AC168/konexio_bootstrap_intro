@@ -1,0 +1,47 @@
+.row1 div div{
+    background-color: yellow;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row2 div div{
+    background-color: blue;
+    height: 35px; 
+    margin-bottom: 10px;
+}
+
+.row3 div div{
+    background-color: red;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row4 div div{
+    background-color: green;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row5 div div{
+    background-color: gray;
+    height: 35px;
+    margin-bottom: 10px;    
+}
+
+.row6 div div{
+    background-color: yellow;
+    height: 35px;
+    margin-bottom: 10px;
+}
+
+.row7 div div{
+    background-color: blue;
+    height: 35px; 
+    margin-bottom: 10px;
+}
+
+.row8 div div{
+    background: red;
+    height :35px;
+    margin-bottom: 10px;
+}
