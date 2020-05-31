@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+}
+
+.content{
+    width: 1040px;
+    display: inline-flex;       
+}
+
+.content2{
+    width: 160px;    
+    float: right;
+    margin-left: 400px;  
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
